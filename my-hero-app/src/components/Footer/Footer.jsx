@@ -4,7 +4,7 @@ import logo from "../../assets/logo.png"
 export const Footer = () => {
   return (
     <>
-    <footer className="footer sm:footer-horizontal bg-gradient-to-br from-blue-900 via-gray-500 to-purple-700 text-base-content p-10">
+    <footer className="footer sm:footer-horizontal bg-gradient-to-br from-blue-950 via-gray-700 to-purple-900 text-base-content p-10">
   <aside>
     <img src={logo} alt="logo" className='w-20 h-20' />
     <p>
