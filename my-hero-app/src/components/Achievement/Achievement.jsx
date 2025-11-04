@@ -5,7 +5,7 @@ const Achievement = () => {
     <>
     <div className='bg-gradient-to-br from-purple-700 via-purple-600 to-purple-400 m-0 py-10'>
         <h1 className='text-4xl text-white font-bold text-center pb-5'>Trusted by Millions, Built for You</h1>
-    <div className='flex justify-center items-center gap-30'>
+    <div className='flex justify-center items-center gap-30 max-sm:block'>
         <div className='flex flex-col justify-center items-center'>
             <p className='text-center text-sm text-white '>Total Downloads</p>
             <h1 className='text-5xl text-white font-bold text-center my-3'>26.9M</h1>

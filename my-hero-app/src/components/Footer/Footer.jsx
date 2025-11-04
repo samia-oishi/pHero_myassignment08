@@ -10,7 +10,7 @@ export const Footer = () => {
     <p>
       Hero.IO
       <br />
-      Providing reliable tech for a reliable future
+      Providing reliable tech <br /> for a reliable future
     </p>
   </aside>
   <nav>

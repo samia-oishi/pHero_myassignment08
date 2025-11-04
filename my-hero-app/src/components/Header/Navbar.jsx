@@ -1,24 +1,39 @@
-import {useState} from 'react'
+import {useState, useEffect} from 'react'
 import logo from '../../assets/logo.png';
+import { Link } from "react-router-dom";
+import { useLocation } from 'react-router-dom';
 
 const Navbar = () => {
 
   const [active, setActive] = useState('Home');
+  const location = useLocation();
+
+  useEffect(() => {
+      const path = location.pathname;
+      if (path === '/myapps') {
+        setActive('MyApps');
+      } else if (path === '/') {
+        setActive('Home');
+      } else if (path === '/installation') {
+        setActive('Installation');
+      }else if (path.startsWith('/InstallationPage')) {
+      setActive('Installation');
+    }
+    }, [location]);
 
   const navLinks = (
   <>
     <li onClick={() => setActive('Home')} className={active === 'Home' ? 'text-purple-700 border-b' : ''}>
-      <a className="hover:bg-transparent focus:bg-transparent active:bg-transparent">Home</a>
+      <Link to="/" className="hover:bg-transparent focus:bg-transparent active:bg-transparent">Home</Link>
     </li>
-    <li onClick={() => setActive('Apps')} className={active === 'Apps' ? 'text-purple-700 border-b' : ''}>
-      <a className="hover:bg-transparent focus:bg-transparent active:bg-transparent">Apps</a>
+    <li onClick={() => setActive('MyApps')} className={active === 'MyApps' ? 'text-purple-700 border-b' : ''}>
+      <Link to="/myapps" className="hover:bg-transparent focus:bg-transparent active:bg-transparent">Apps</Link>
     </li>
     <li onClick={() => setActive('Installation')} className={active === 'Installation' ? 'text-purple-700 border-b' : ''}>
-      <a className="hover:bg-transparent focus:bg-transparent active:bg-transparent">Installation</a>
+      <Link to="/installation" className="hover:bg-transparent focus:bg-transparent active:bg-transparent">Installation</Link>
     </li>
   </>
 );
-
 
   
   return (
@@ -35,9 +50,11 @@ const Navbar = () => {
         {navLinks}
       </ul>
     </div>
-    <div className='flex items-center gap-1'>
-      <img src={logo} alt="Hero.IO" className='w-10 h-10' />
-    <a className="cursor-pointer text-purple-700 font-medium text-lg">Hero.IO</a>
+    <div>
+      <Link to="/" className="flex items-center gap-1">
+        <img src={logo} alt="Hero.IO" className="w-10 h-10" />
+        <span className="cursor-pointer text-purple-700 font-medium text-lg">Hero.IO</span>
+      </Link>
     </div>
   </div>
   <div className="navbar-center hidden lg:flex">
@@ -46,7 +63,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn bg-gradient-to-br from-blue-700 via-gray-500 to-purple-500 outline-0 border-0 hover:bg-gradient-to-tl" href='https://github.com/samia-oishi' target='_blank'>
+    <a className="btn bg-gradient-to-br from-purple-700 via-purple-400 to-purple-500 outline-0 border-0 hover:bg-gradient-to-tl" href='https://github.com/samia-oishi' target='_blank'>
       <i className="fa-brands fa-github" aria-hidden="true"></i>Contribute</a>
   </div>
 </div>

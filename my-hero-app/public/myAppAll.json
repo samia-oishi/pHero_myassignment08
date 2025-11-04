@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.ibb.co.com/k6yVJ1W8/demoapp1.webp",
+    "title": "CodeMate AI Coding Assistant Tool",
+    "companyName": "DevVision Labs",
+    "id": 1,
+    "description": "An AI-powered coding assistant that helps developers debug, refactor, and generate code instantly. CodeMate uses advanced machine learning algorithms to understand your codebase and provide intelligent suggestions. Whether you're fixing bugs, optimizing performance, or writing new features, CodeMate streamlines your workflow with real-time code analysis, automated testing suggestions, and context-aware completions that understand your project's architecture and coding patterns.",
+    "size": 54,
+    "reviews": 1200,
+    "ratingAvg": 4.6,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 32 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 340 },
+      { "name": "5 star", "count": 668 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/vC10SJBR/demoapp3.webp",
+    "title": "PhotoBloom Creative Photo Editor",
+    "companyName": "PixelForge Studios",
+    "id": 2,
+    "description": "A creative photo editing app with filters, overlays, and advanced retouching features. PhotoBloom empowers photographers and content creators with professional-grade editing tools accessible on any device. Transform ordinary photos into stunning visual masterpieces using our extensive library of artistic filters, customizable overlays, and precision retouching tools. Features include AI-powered background removal, skin smoothing, color grading presets, layered editing capabilities, and batch processing for efficient workflow management.",
+    "size": 78,
+    "reviews": 5400,
+    "ratingAvg": 4.8,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 112 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 490 },
+      { "name": "4 star", "count": 1040 },
+      { "name": "5 star", "count": 3528 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1tLCFGxf/demoapp2.webp",
+    "title": "FitTrack AI Health Tracker",
+    "companyName": "Vitality Apps",
+    "id": 3,
+    "description": "Track workouts, monitor calories, and stay motivated with AI-driven health analytics. FitTrack combines cutting-edge artificial intelligence with comprehensive health monitoring to help you achieve your fitness goals. The app automatically recognizes exercises, counts reps, tracks nutrition with smart food logging, monitors sleep patterns, and provides personalized workout recommendations based on your progress. Connect with wearable devices for heart rate monitoring, receive daily motivation through achievement badges, and visualize your fitness journey with detailed progress charts and insights.",
+    "size": 65,
+    "reviews": 3100,
+    "ratingAvg": 4.4,
+    "downloads": 870000,
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 1320 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/B2VvcDjj/demoapp5.webp",
+    "title": "ShopEase Personalized Shopping",
+    "companyName": "Ecomify Inc.",
+    "id": 4,
+    "description": "Smart shopping app with personalized recommendations and secure payment gateways. ShopEase revolutionizes your online shopping experience by learning your preferences and curating products tailored specifically to your taste and budget. Browse millions of items from trusted retailers, compare prices across platforms, receive instant notifications on price drops for your wishlist items, and checkout securely with multiple payment options including digital wallets and buy-now-pay-later services. Enjoy hassle-free returns, order tracking, and exclusive deals available only through the app.",
+    "size": 90,
+    "reviews": 8900,
+    "ratingAvg": 4.7,
+    "downloads": 2200000,
+    "ratings": [
+      { "name": "1 star", "count": 410 },
+      { "name": "2 star", "count": 570 },
+      { "name": "3 star", "count": 1030 },
+      { "name": "4 star", "count": 1850 },
+      { "name": "5 star", "count": 5040 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/k6yVJ1W8/demoapp1.webp",
+    "title": "GameHaven Connect And Play",
+    "companyName": "NextPlay Studios",
+    "id": 5,
+    "description": "Discover trending games, earn rewards, and connect with gamers worldwide. GameHaven is the ultimate social gaming platform where players can explore the latest and most popular games across all genres, join active gaming communities, participate in competitive tournaments with real prizes, and build their gaming profiles. Chat with friends, form teams, share gameplay highlights, stream your sessions, and climb leaderboards. The integrated rewards system lets you earn points through gameplay achievements that can be redeemed for in-game content, merchandise, and exclusive perks.",
+    "size": 112,
+    "reviews": 4700,
+    "ratingAvg": 4.3,
+    "downloads": 1350000,
+    "ratings": [
+      { "name": "1 star", "count": 270 },
+      { "name": "2 star", "count": 360 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 1770 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DHgm4PLg/demoapp4.webp",
+    "title": "NoteLynx Productivity Task Manager",
+    "companyName": "SmartByte",
+    "id": 6,
+    "description": "All-in-one productivity app for notes, reminders, and task management synced across devices. NoteLynx brings together everything you need to stay organized in one seamless platform. Create rich-text notes with images and attachments, set smart reminders that trigger based on time or location, manage complex projects with subtasks and dependencies, and organize everything with tags and folders. Your data syncs instantly across all your devices with end-to-end encryption, ensuring your information is always accessible and secure. Collaborate with team members through shared workspaces and real-time updates.",
+    "size": 48,
+    "reviews": 2100,
+    "ratingAvg": 4.5,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/vC10SJBR/demoapp3.webp",
+    "title": "BeatBox Personalized Music",
+    "companyName": "Harmony Labs",
+    "id": 7,
+    "description": "Music streaming app offering personalized playlists and lossless audio playback. BeatBox delivers an unparalleled listening experience with access to millions of songs in crystal-clear lossless quality. Our advanced AI learns your musical preferences to create perfectly curated playlists that match your mood, activity, and time of day. Discover new artists through personalized recommendations, explore genre-specific radio stations, download songs for offline listening, view synchronized lyrics, and enjoy adaptive audio quality that adjusts to your network conditions. Create and share collaborative playlists with friends and access exclusive live sessions and behind-the-scenes content.",
+    "size": 96,
+    "reviews": 9800,
+    "ratingAvg": 4.9,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 560 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 7480 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fVrFCsDf/demoapp6.webp",
+    "title": "SafeNet All-in-One Security",
+    "companyName": "CyberTrust Solutions",
+    "id": 8,
+    "description": "A security app offering VPN, malware scanning, and identity theft protection in one package. SafeNet provides comprehensive digital protection for your entire online life. Secure your internet connection with military-grade VPN encryption across unlimited devices, scan apps and files for malware and threats in real-time, monitor the dark web for compromised credentials, receive instant alerts if your personal information appears in data breaches, and protect against phishing attacks with our intelligent web filtering. Additional features include secure browsing, password breach monitoring, Wi-Fi security analysis, and 24/7 identity restoration support.",
+    "size": 104,
+    "reviews": 3300,
+    "ratingAvg": 4.6,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 480 },
+      { "name": "4 star", "count": 1050 },
+      { "name": "5 star", "count": 1380 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1tLCFGxf/demoapp2.webp",
+    "title": "MindSync Focus Booster",
+    "companyName": "NeuroBoost Labs",
+    "id": 9,
+    "description": "Enhance concentration and reduce distractions using guided focus sessions and productivity tracking. MindSync applies neuroscience-backed techniques to help you enter and maintain deep focus states for maximum productivity. Choose from various focus modes including Pomodoro technique, deep work sessions, or custom intervals. The app blocks distracting notifications, plays scientifically designed soundscapes that promote concentration, tracks your focus patterns to identify peak productivity hours, and provides detailed analytics on your work habits. Includes breathing exercises, quick meditation breaks, and achievement milestones to build sustainable focus habits over time.",
+    "size": 52,
+    "reviews": 2600,
+    "ratingAvg": 4.5,
+    "downloads": 720000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 320 },
+      { "name": "4 star", "count": 820 },
+      { "name": "5 star", "count": 1180 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/vC10SJBR/demoapp3.webp",
+    "title": "PixMuse Art Filter Studio",
+    "companyName": "Visionary Works",
+    "id": 10,
+    "description": "Transform photos into digital artworks using AI filters and real-time editing tools. PixMuse brings the power of professional art studios to your fingertips with revolutionary AI technology that converts ordinary photos into stunning artistic masterpieces. Apply styles inspired by famous artists, from impressionism to modern abstract, with just a tap. Experiment with hundreds of customizable filters, adjust intensity and blend modes, create unique artistic combinations, and see changes in real-time with our lightning-fast processing engine. Export in high resolution for prints, share directly to social media, or save your custom filter combinations for future use.",
+    "size": 84,
+    "reviews": 6400,
+    "ratingAvg": 4.7,
+    "downloads": 1550000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 460 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 4390 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DHgm4PLg/demoapp4.webp",
+    "title": "TaskFlow Daily Organizer",
+    "companyName": "Productive Minds",
+    "id": 11,
+    "description": "Organize your tasks, set goals, and visualize productivity trends with ease. TaskFlow transforms how you manage your daily life with an intuitive interface that makes organization effortless. Create tasks with priorities, deadlines, and custom categories, break down large goals into manageable steps, track time spent on activities, and visualize your productivity patterns through beautiful charts and graphs. The smart scheduling assistant suggests optimal times for tasks based on your habits, while the built-in calendar integration ensures nothing falls through the cracks. Weekly and monthly reviews help you reflect on progress and adjust strategies for continuous improvement.",
+    "size": 57,
+    "reviews": 3800,
+    "ratingAvg": 4.4,
+    "downloads": 940000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 930 },
+      { "name": "5 star", "count": 2100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fVrFCsDf/demoapp6.webp",
+    "title": "VaultX Secure Passwords",
+    "companyName": "CyberTrust Solutions",
+    "id": 12,
+    "description": "Manage passwords securely with encrypted cloud storage and one-tap autofill integration. VaultX is your ultimate password security solution, protecting all your credentials with bank-level AES-256 encryption. Store unlimited passwords, credit cards, secure notes, and important documents in your encrypted vault accessible across all devices. Generate strong, unique passwords for every account with our customizable password generator, enjoy seamless one-tap autofill on websites and apps, receive security alerts when breached passwords are detected, and share credentials safely with family or team members through encrypted sharing. Biometric authentication ensures quick access while maintaining maximum security.",
+    "size": 70,
+    "reviews": 4400,
+    "ratingAvg": 4.8,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 330 },
+      { "name": "4 star", "count": 880 },
+      { "name": "5 star", "count": 2900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/k6yVJ1W8/demoapp1.webp",
+    "title": "CodeCraft Developer Hub",
+    "companyName": "DevVision Labs",
+    "id": 13,
+    "description": "A developer platform providing AI-based templates, tutorials, and code sharing tools. CodeCraft is the complete ecosystem for developers at every skill level, offering a vast library of production-ready code templates, comprehensive video tutorials, interactive coding challenges, and a vibrant community forum. Access starter templates for web apps, mobile applications, APIs, and more, all optimized with best practices and modern architecture patterns. Learn from industry experts through structured learning paths, share your own projects to get feedback, contribute to open-source initiatives, and discover collaboration opportunities with developers worldwide.",
+    "size": 60,
+    "reviews": 3500,
+    "ratingAvg": 4.6,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 380 },
+      { "name": "4 star", "count": 940 },
+      { "name": "5 star", "count": 1840 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/B2VvcDjj/demoapp5.webp",
+    "title": "ShopLink Smart Deals",
+    "companyName": "Ecomify Inc.",
+    "id": 14,
+    "description": "Find discounts and personalized deals from thousands of online stores in one app. ShopLink is your personal shopping assistant that hunts down the best deals and discounts across the internet so you don't have to. Browse curated collections of trending products, set price alerts for items you're watching, discover exclusive app-only discounts, apply coupon codes automatically at checkout, and earn cashback rewards on every purchase. Our AI analyzes your shopping preferences to surface deals tailored specifically to your interests, while price history graphs help you determine the best time to buy. Never overpay again with ShopLink's smart shopping intelligence.",
+    "size": 88,
+    "reviews": 7700,
+    "ratingAvg": 4.5,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 330 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1750 },
+      { "name": "5 star", "count": 4220 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1tLCFGxf/demoapp2.webp",
+    "title": "PulseFit Body Tracker",
+    "companyName": "Vitality Apps",
+    "id": 15,
+    "description": "Monitor fitness progress, heart rate, and body composition using AI insights. PulseFit provides comprehensive body analytics that go beyond simple weight tracking to give you a complete picture of your health journey. Track body fat percentage, muscle mass, BMI, and other vital metrics with precision, monitor real-time heart rate during workouts and throughout the day, analyze your cardiovascular fitness trends, and receive personalized recommendations for improving your body composition. Integration with smart scales and fitness wearables ensures accurate data collection, while AI-powered insights help you understand what's working and what needs adjustment in your fitness routine.",
+    "size": 72,
+    "reviews": 2600,
+    "ratingAvg": 4.3,
+    "downloads": 830000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 410 },
+      { "name": "4 star", "count": 940 },
+      { "name": "5 star", "count": 1240 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/vC10SJBR/demoapp3.webp",
+    "title": "SnapVerse Photo Studio",
+    "companyName": "PixelForge Studios",
+    "id": 16,
+    "description": "Edit and enhance images with creative tools, filters, and automatic corrections. SnapVerse combines powerful professional editing capabilities with user-friendly simplicity, making it perfect for both beginners and experienced photographers. Apply one-tap automatic enhancements that intelligently adjust lighting, color, and sharpness, or dive deep into manual controls for precise adjustments. Access an extensive collection of stylish filters and effects, remove unwanted objects with content-aware fill, create stunning collages and layouts, add text and stickers, and apply selective edits to specific areas of your photos. Advanced features include RAW photo support, layer-based editing, and non-destructive workflow.",
+    "size": 80,
+    "reviews": 5200,
+    "ratingAvg": 4.7,
+    "downloads": 1400000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 430 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 3280 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DHgm4PLg/demoapp4.webp",
+    "title": "MemoPad Note Keeper",
+    "companyName": "SmartByte",
+    "id": 17,
+    "description": "A clean, minimal note-taking app with offline sync and real-time reminders. MemoPad strips away unnecessary complexity to focus on what matters most: capturing your thoughts quickly and finding them easily. The distraction-free writing interface helps you focus on your ideas, while powerful organization features like nested folders, tags, and full-text search ensure you can always find what you need. Create text notes, checklists, voice memos, and sketch drawings all in one place. Work seamlessly offline with automatic background sync when you're back online, and set location-based or time-based reminders so important tasks never slip your mind.",
+    "size": 50,
+    "reviews": 2100,
+    "ratingAvg": 4.4,
+    "downloads": 640000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 920 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/k6yVJ1W8/demoapp1.webp",
+    "title": "PlayVerse Game Hub",
+    "companyName": "NextPlay Studios",
+    "id": 18,
+    "description": "Join global gaming events, win prizes, and discover multiplayer tournaments. PlayVerse is the premier destination for competitive gamers and esports enthusiasts, hosting daily tournaments across popular game titles with real cash prizes and exclusive rewards. Connect with millions of players worldwide, form teams and guilds, participate in ranked seasons, watch live streams of top players, and climb regional and global leaderboards. The platform features an integrated social system for finding teammates, scheduling practice sessions, and analyzing match replays. Earn reputation points through victories and community contributions to unlock VIP perks, early access to new features, and special tournament invitations.",
+    "size": 108,
+    "reviews": 5200,
+    "ratingAvg": 4.5,
+    "downloads": 1650000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1450 },
+      { "name": "5 star", "count": 2620 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fVrFCsDf/demoapp6.webp",
+    "title": "Guardify Privacy Suite",
+    "companyName": "CyberTrust Solutions",
+    "id": 19,
+    "description": "Protect online identity, monitor threats, and secure browsing with 256-bit encryption. Guardify delivers enterprise-grade privacy protection designed for individuals who take their digital security seriously. Shield your online activities with military-grade 256-bit encryption, block trackers and ads across all apps and websites, receive real-time alerts about suspicious activity on your accounts, scan the dark web continuously for leaked personal information, and get detailed privacy reports showing who's collecting your data. Advanced features include webcam and microphone protection, secure file shredding, encrypted messaging, and comprehensive parental controls for family safety.",
+    "size": 102,
+    "reviews": 3100,
+    "ratingAvg": 4.6,
+    "downloads": 890000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 460 },
+      { "name": "4 star", "count": 960 },
+      { "name": "5 star", "count": 1300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/vC10SJBR/demoapp3.webp",
+    "title": "TuneStream Music Player",
+    "companyName": "Harmony Labs",
+    "id": 20,
+    "description": "Stream songs, create custom playlists, and enjoy adaptive sound quality playback. TuneStream redefines music streaming with intelligent features that adapt to your listening habits and preferences. Access an extensive catalog of millions of songs across every genre, create unlimited playlists with drag-and-drop simplicity, enjoy gapless playback and crossfade transitions for uninterrupted listening, and experience adaptive sound quality that automatically adjusts based on your network connection to prevent buffering. Discover new music through AI-powered recommendations, follow your favorite artists for instant updates on new releases, download songs for offline playback during flights or commutes, and visualize your music with dynamic spectrum analyzers and themes.",
+    "size": 94,
+    "reviews": 8800,
+    "ratingAvg": 4.8,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 490 },
+      { "name": "4 star", "count": 1350 },
+      { "name": "5 star", "count": 6570 }
+    ]
+  }
+]
